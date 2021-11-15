@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EggOclock</string>
+    <string name="choose_egg">Vælg Egg</string>
+    <string name="start_btn_name">Start</string>
+    <string name="end_btn_name">Stop</string>
+    <string name="timer_text">Timer mm:ss</string>
+
+    <string name="egg_blodkogte">Blodkogte</string>
+    <string name="egg_smilne">Smilne</string>
+    <string name="egg_hardkogte">Hardkogte</string>
+</resources>
